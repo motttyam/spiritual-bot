@@ -19,7 +19,7 @@ type Config struct {
 }
 
 type Client struct {
-	authenticator *auth.Authenticator
+	authenticator auth.Authenticator
 	apiClient     applicationapiv1.ApplicationServiceClient
 	conn          *grpc.ClientConn
 }
