@@ -8,6 +8,14 @@
 
 ---
 
+## Build and Test — Automation Setup
+**Timestamp**: 2026-03-10T00:08:00Z
+**User Input**: "ここからどうやったら進められる？ / 進めていきたい"
+**AI Response**: CI ワークフロー（push/PR で `go test ./...` 実行）を追加。fortune ワークフローの依存取得を `go mod download` に変更。
+**Context**: CONSTRUCTION PHASE - Build and Test 実装中
+
+---
+
 ## Code Generation
 **Timestamp**: 2026-03-10T00:07:00Z
 **User Input**: "pushして、そしてClaude CodeがRate Limitがきたからそれを進めてほしい"

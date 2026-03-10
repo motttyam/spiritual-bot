@@ -26,7 +26,7 @@ jobs:
           go-version: '1.24.6'
 
       - name: Download modules
-        run: go mod tidy
+        run: go mod download
 
       - name: Run bot
         env:
