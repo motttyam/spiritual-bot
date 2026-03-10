@@ -22,7 +22,7 @@
 - [x] Requirements Analysis — COMPLETED (2026-03-10)
 - [x] User Stories — SKIPPED (単純用途・単一ユーザーのため)
 - [x] Workflow Planning — COMPLETED (2026-03-10)
-- [ ] Application Design — EXECUTE (次のステージ)
+- [x] Application Design — COMPLETED (2026-03-10)
 - [x] Units Generation — SKIPPED (単一ユニットのため)
 
 ## Execution Plan Summary
@@ -30,7 +30,7 @@
 - **Stages to Skip**: Reverse Engineering, User Stories, Units Generation, NFR Requirements, NFR Design, Infrastructure Design
 
 ## Stage Progress — CONSTRUCTION PHASE
-- [ ] Functional Design — EXECUTE
+- [x] Functional Design — COMPLETED (2026-03-10)
 - [x] NFR Requirements — SKIPPED
 - [x] NFR Design — SKIPPED
 - [x] Infrastructure Design — SKIPPED
